@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Base case" tests="24" skipped="0" failures="0" errors="0" timestamp="2022-10-03T07:34:09" hostname="DESKTOP-5PQMB36" time="10.48">
+  <properties/>
+  <testcase name="[1] 1, 0, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.008"/>
+  <testcase name="[2] 10, 0, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.006"/>
+  <testcase name="[3] 1, 0, 10" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.002"/>
+  <testcase name="[4] 100, 0, 100" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.065"/>
+  <testcase name="[5] 10000, 0, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.106"/>
+  <testcase name="[6] 1, 0, 10000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.021"/>
+  <testcase name="[7] 1000, 0, 1000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.484"/>
+  <testcase name="[8] 1, 0, 1000000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.632"/>
+  <testcase name="[1] 1, 1, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.004"/>
+  <testcase name="[2] 10, 10, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.004"/>
+  <testcase name="[3] 1, 10, 10" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.004"/>
+  <testcase name="[4] 100, 10000, 100" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.017"/>
+  <testcase name="[5] 10000, 10000, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.032"/>
+  <testcase name="[6] 1, 10000, 10000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.007"/>
+  <testcase name="[7] 1000, 1000000, 1000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="1.669"/>
+  <testcase name="[8] 1, 1000000, 1000000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.2"/>
+  <testcase name="[1] 1, 0, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.005"/>
+  <testcase name="[2] 10, 0, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.005"/>
+  <testcase name="[3] 1, 0, 10" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.002"/>
+  <testcase name="[4] 100, 0, 100" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.024"/>
+  <testcase name="[5] 10000, 0, 1" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="6.106"/>
+  <testcase name="[6] 1, 0, 10000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.106"/>
+  <testcase name="[7] 1000, 0, 1000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.505"/>
+  <testcase name="[8] 1, 0, 1000000" classname="testingconcurrency.ConcurrentSetTest$BaseCase" time="0.414"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e8cc460f-d7ba-4c8c-b5a0-145d6d3c223a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/exercises10/TestHistograms.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/exercises10/TestHistograms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/exercises10/TestLocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/exercises10/TestLocks.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/7.5.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/build/classes/java/main/mobilepayment/Bank$ReadBalance.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/build/classes/java/main/mobilepayment/Bank$ReadBalance.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/build/classes/java/main/mobilepayment/Bank.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/build/classes/java/main/mobilepayment/Bank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Bank.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Guardian.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Guardian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/MobileApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/app/src/main/java/mobilepayment/MobileApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Exercise11/week11exercises/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/../../Exercise11/week11exercises/gradlew.bat" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2HON1q2Sd7C3Z7gs2xs8W1LJQCZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="exercises10" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="TestLocks.writerUnlock_shouldthrowExceptionWhenUnlockingNotHeldLock" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:test" />
+            <option value="--tests" />
+            <option value="&quot;exercises10.TestLocks.writerUnlock_shouldthrowExceptionWhenUnlockingNotHeldLock&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="week10exercises" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="week10exercises" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.TestLocks.writerUnlock_shouldthrowExceptionWhenUnlockingNotHeldLock" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8cc460f-d7ba-4c8c-b5a0-145d6d3c223a" name="Changes" comment="" />
+      <created>1668151966923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668151966923</updated>
+      <workItem from="1668151969112" duration="210000" />
+      <workItem from="1668253719063" duration="21148000" />
+      <workItem from="1669289945963" duration="7787000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
